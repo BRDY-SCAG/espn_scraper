@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "graceful-fs": "^4.2.11",
+    "https-proxy-agent": "^7.0.5",
+    "node-fetch": "^3.3.2"
+  },
+  "name": "main",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
